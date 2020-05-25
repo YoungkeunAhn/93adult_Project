@@ -1,0 +1,18 @@
+root
+	login	    login.html
+		        login_auth.jsp
+
+    profile	    profile_FirstSet.html
+                profile_Exercise.html
+                profile_Character.html
+                profile_update_home.html
+                profile_update_info.html
+
+	main	    main_page.html
+		        menu.html
+
+	meal	    meal_home.html
+		        meal_choose.html
+	
+	exercise	excercise_home.html
+		        excercise_add.html
